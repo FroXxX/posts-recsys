@@ -198,8 +198,7 @@ GET /post/recommendations/?id=12445&time=1725880614&limit=2
 ├── Dockerfile
 ├── README.md
 ├── requirements
-├── docker-compose.yaml
-└── request-examples.txt
+└── docker-compose.yml
 ```
 
 | Название                                                               | Описание                                                      |
