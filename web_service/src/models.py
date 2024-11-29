@@ -2,7 +2,7 @@ from pydantic import BaseModel, Field
 
 
 class PostResponse(BaseModel):
-    id: int = Field(validation_alias='post_id')
+    id: int = Field(validation_alias="post_id")
     text: str
     topic: str
 
